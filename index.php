@@ -1,5 +1,6 @@
 <?php
 
+require 'vendor/autoload.php';
 require 'functions.php';
 
 require 'core/bootstrap.php';
