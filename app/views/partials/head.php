@@ -10,4 +10,4 @@
 </head>
 <body>
 
-<?php require('partials/nav.php'); ?>
+<?php require("app/views/partials/nav.php"); ?>
